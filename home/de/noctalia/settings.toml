@@ -1,0 +1,7 @@
+[bar]
+order = ["main"]
+
+[bar.main]
+concave_edge_corners = false
+margin_ends = 0
+radius = 0
